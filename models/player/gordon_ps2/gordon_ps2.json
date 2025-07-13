@@ -48,6 +48,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -90,6 +91,7 @@
 			"type": 8
 		}
 	],
+	"date": 1333946653,
 	"events": [
 		{
 			"event": 2001,
@@ -206,7 +208,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0f4e0abe8bea4a4c32886d1f51e28c0a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "gordon.dol",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

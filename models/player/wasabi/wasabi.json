@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 923993014,
 	"events": [
 		{
 			"event": 2001,
@@ -176,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4896987d0a13345c79ea4d1743bff95f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "e:\\valve/models/player/Wasabi/Wasabi.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

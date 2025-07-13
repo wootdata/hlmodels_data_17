@@ -58,6 +58,7 @@
 			"name": "Head"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -92,6 +93,7 @@
 			"type": 8
 		}
 	],
+	"date": 1644872423,
 	"events": [
 		{
 			"event": 2001,
@@ -201,7 +203,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5ecb60f7124c8be2a4a8293f01b2c0a5",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Diepiify.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

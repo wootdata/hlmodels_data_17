@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 21,
@@ -70,6 +71,7 @@
 			"type": 8
 		}
 	],
+	"date": 941184846,
 	"events": [
 		{
 			"event": 2001,
@@ -179,7 +181,11 @@
 	],
 	"id": 1414743113,
 	"md5": "aed78cab724559364a904ff8ecf38bc6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "valve/models/pumpkin.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 1707666423,
 	"events": [
 		{
 			"event": 2001,
@@ -176,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0623d57793696e19577d4e78529c95b6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\torne\\Desktop\\scientist\\scientist\\Scientist.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

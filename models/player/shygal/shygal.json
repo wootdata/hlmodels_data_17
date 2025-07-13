@@ -58,6 +58,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -92,6 +93,7 @@
 			"type": 8
 		}
 	],
+	"date": 1748581581,
 	"events": [
 		{
 			"event": 5011,
@@ -222,7 +224,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ef4e6894aa86ebf311d0b2b01fbbcb5b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "shygal.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

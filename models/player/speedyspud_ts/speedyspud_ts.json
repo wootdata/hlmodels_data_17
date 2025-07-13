@@ -28,7 +28,9 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
+	"date": 1673222332,
 	"events": [
 		{
 			"event": 2001,
@@ -138,7 +140,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d56871b71373d471a91ff402e6942666",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "speedyspud.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

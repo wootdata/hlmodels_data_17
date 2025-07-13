@@ -18,6 +18,7 @@
 			"name": "hassassin"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -52,6 +53,7 @@
 			"type": 8
 		}
 	],
+	"date": 1592351203,
 	"events": [
 		{
 			"event": 2001,
@@ -161,7 +163,11 @@
 	],
 	"id": 1414743113,
 	"md5": "761f33b454d573ca3d4d24589f05bdb5",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "fassn.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
