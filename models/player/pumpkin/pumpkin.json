@@ -183,6 +183,7 @@
 	"md5": "aed78cab724559364a904ff8ecf38bc6",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/pumpkin.mdl",
 	"preview": true,
 	"readme": false,

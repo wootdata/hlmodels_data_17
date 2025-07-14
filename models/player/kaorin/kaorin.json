@@ -175,6 +175,7 @@
 	"md5": "7f3dc4f7560c3f5d33ffa895e262db19",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "playerstart.mdl",
 	"preview": true,
 	"readme": false,

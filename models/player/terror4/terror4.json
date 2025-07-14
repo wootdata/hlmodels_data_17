@@ -169,6 +169,7 @@
 	"md5": "fe45ff73168302cb889d3c44417026cb",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 0,
 	"name": "terror.mdl",
 	"preview": true,
 	"readme": false,

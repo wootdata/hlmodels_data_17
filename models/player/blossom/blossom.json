@@ -175,6 +175,7 @@
 	"md5": "30bab17559e16828a910598a204233fc",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/blossom/blossom.mdl",
 	"preview": true,
 	"readme": false,

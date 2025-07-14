@@ -175,6 +175,7 @@
 	"md5": "8470fb3a4ba41b3b8aa0d47be0177b2d",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/knute_and_bolte/Knute_and_Bolte.mdl",
 	"preview": true,
 	"readme": true,
