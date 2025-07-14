@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 24,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 24,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 24,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}
@@ -20,14 +20,14 @@
 		{
 			"models": [
 				{
-					"name": "../dmatch/scientist/ronny",
-					"polys": 797,
-					"verts": 407
+					"name": "dora_high2",
+					"polys": 460,
+					"verts": 254
 				}, 
 				{
-					"name": "../dmatch/scientist/ronny",
-					"polys": 797,
-					"verts": 407
+					"name": "dora_high2",
+					"polys": 460,
+					"verts": 254
 				}
 			],
 			"name": "body"
@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1563218572,
+	"date": 1620322691,
 	"events": [
 		{
 			"event": 2001,
@@ -177,10 +177,10 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "2179539084372dcad5e7a93acd84d96f",
+	"md5": "090a44ac6328d478cacdab14a3310799",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "player/Scientist/ronny.mdl",
+	"name": "doraemon.mdl",
 	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
@@ -202,12 +202,12 @@
 		}, 
 		{
 			"fps": 40.000000,
-			"frames": 23,
+			"frames": 25,
 			"name": "run2"
 		}, 
 		{
 			"fps": 26.000000,
-			"frames": 24,
+			"frames": 17,
 			"name": "walk2handed"
 		}, 
 		{
@@ -227,7 +227,7 @@
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 34,
+			"frames": 170,
 			"name": "jump"
 		}, 
 		{
@@ -571,7 +571,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 326352,
+	"size": 354216,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -646,60 +646,42 @@
 			"parent": 16
 		}, 
 		{
-			"name": "Bip01 L Finger1",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Finger11",
-			"parent": 18
-		}, 
-		{
-			"name": "Bip01 L Finger12",
-			"parent": 19
-		}, 
-		{
 			"name": "Bip01 R Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 21
+			"parent": 18
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 22
+			"parent": 19
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 23
-		}, 
-		{
-			"name": "Bip01 R Finger1",
-			"parent": 24
-		}, 
-		{
-			"name": "Bip01 R Finger11",
-			"parent": 25
-		}, 
-		{
-			"name": "Bip01 R Finger12",
-			"parent": 26
+			"parent": 20
 		}
 	],
 	"skins": 1,
 	"t_model": false,
 	"textures": [
 		{
-			"flags": 1073741824,
+			"flags": 0,
 			"height": 256,
-			"name": "Remap0_000_152_255.bmp",
-			"width": 256
+			"name": "DM_Base.BMP",
+			"width": 440
 		}, 
 		{
-			"flags": 1073741826,
-			"height": 48,
-			"name": "Remap1_000_255_255.bmp",
-			"width": 48
+			"flags": 0,
+			"height": 1,
+			"name": "white.bmp",
+			"width": 4
+		}, 
+		{
+			"flags": 0,
+			"height": 1,
+			"name": "red.bmp",
+			"width": 4
 		}
 	],
 	"version": 10

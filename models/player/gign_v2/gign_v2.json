@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 24,
+			"bone": 25,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 24,
+			"bone": 25,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 24,
+			"bone": 25,
 			"name": "",
 			"type": 0
 		}
@@ -20,20 +20,15 @@
 		{
 			"models": [
 				{
-					"name": "../dmatch/scientist/ronny",
-					"polys": 797,
-					"verts": 407
-				}, 
-				{
-					"name": "../dmatch/scientist/ronny",
-					"polys": 797,
-					"verts": 407
+					"name": "gign",
+					"polys": 740,
+					"verts": 371
 				}
 			],
 			"name": "body"
 		}
 	],
-	"colorable": true,
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -68,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1563218572,
+	"date": 1184724966,
 	"events": [
 		{
 			"event": 2001,
@@ -177,11 +172,11 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "2179539084372dcad5e7a93acd84d96f",
+	"md5": "968865ab0653d4d7a758fc3fac826d78",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "player/Scientist/ronny.mdl",
-	"preview": true,
+	"name": "ARCTIC.mdl",
+	"preview": false,
 	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
@@ -571,7 +566,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 326352,
+	"size": 524948,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -634,72 +629,74 @@
 			"parent": 12
 		}, 
 		{
-			"name": "Bip01 L Arm1",
-			"parent": 14
-		}, 
-		{
-			"name": "Bip01 L Arm2",
-			"parent": 15
-		}, 
-		{
-			"name": "Bip01 L Hand",
-			"parent": 16
-		}, 
-		{
-			"name": "Bip01 L Finger1",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Finger11",
-			"parent": 18
-		}, 
-		{
-			"name": "Bip01 L Finger12",
-			"parent": 19
-		}, 
-		{
 			"name": "Bip01 R Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 21
+			"parent": 15
 		}, 
 		{
-			"name": "Bip01 R Arm2",
+			"name": "Bip01 L Arm1",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 20
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 L Finger11",
 			"parent": 22
 		}, 
 		{
-			"name": "Bip01 R Hand",
-			"parent": 23
+			"name": "Bip01 R Arm2",
+			"parent": 16
 		}, 
 		{
-			"name": "Bip01 R Finger1",
+			"name": "Bip01 R Hand",
 			"parent": 24
 		}, 
 		{
-			"name": "Bip01 R Finger11",
+			"name": "Bip01 R Finger0",
 			"parent": 25
 		}, 
 		{
-			"name": "Bip01 R Finger12",
+			"name": "Bip01 R Finger01",
 			"parent": 26
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 25
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 28
 		}
 	],
 	"skins": 1,
 	"t_model": false,
 	"textures": [
 		{
-			"flags": 1073741824,
-			"height": 256,
-			"name": "Remap0_000_152_255.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 1073741826,
-			"height": 48,
-			"name": "Remap1_000_255_255.bmp",
-			"width": 48
+			"flags": 0,
+			"height": 520,
+			"name": "GIGN_DMBASE2.bmp",
+			"width": 520
 		}
 	],
 	"version": 10
