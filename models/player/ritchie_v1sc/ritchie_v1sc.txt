@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ritchie
+Source Model Hash : 2356faf22af1f2d32ff3ccfa323e8b8f
+Source Model Date : 1269359048 (2010/03/23)
+
+Ported Model Name : ritchie_v1sc
+Ported Model Hash : b2e5ab163b8bd050fb6be384c36a4c5d
+Ported Model Date : 1752492218 (2025/07/14)

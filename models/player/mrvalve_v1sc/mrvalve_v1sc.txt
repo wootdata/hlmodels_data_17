@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mrvalve
+Source Model Hash : e0b4bc26a41b6aa262ed6bea5dec11be
+Source Model Date : 1266664654 (2010/02/20)
+
+Ported Model Name : mrvalve_v1sc
+Ported Model Hash : aefc05859e56233a2e07e68c13c0db97
+Ported Model Date : 1752492046 (2025/07/14)

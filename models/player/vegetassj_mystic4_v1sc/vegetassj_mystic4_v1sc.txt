@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : vegetassj_mystic4
+Source Model Hash : d27cb86d78a82b89af22024080f7cef9
+Source Model Date : 1613002117 (2021/02/10)
+
+Ported Model Name : vegetassj_mystic4_v1sc
+Ported Model Hash : b846396d70f4bb2a1a748b7ea44eefc6
+Ported Model Date : 1752492491 (2025/07/14)

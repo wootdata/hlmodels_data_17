@@ -1,0 +1,26 @@
+Helmet Scientist 3.0 compatible!
+
+Reskin: TundraCool and Steel Crowbar
+Walter Head: OneEyedNewt
+
+extract to
+
+WON: C:\Sierra\Half-Life\SvenCoop\models\player
+Steam: C:\Program Files\Steam\SteamApps\Your Email Here\half-life\SvenCoop\models\player
+               
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : helmetscientist_v2
+Source Model Hash : ef4e7f12d4a64820022ada33c8dd1b71
+Source Model Date : 1583891507 (2020/03/10)
+
+Ported Model Name : helmetscientist_v2sc
+Ported Model Hash : 8404fb50033a1b918e71c9ad9623b959
+Ported Model Date : 1752491782 (2025/07/14)

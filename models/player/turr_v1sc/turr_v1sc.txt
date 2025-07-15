@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : turr
+Source Model Hash : 584e5f9badadb31acd295ab6ab147814
+Source Model Date : 1614178406 (2021/02/24)
+
+Ported Model Name : turr_v1sc
+Ported Model Hash : 4e8dfb17434c633d46c1f43ac3ba9e0f
+Ported Model Date : 1752492464 (2025/07/14)

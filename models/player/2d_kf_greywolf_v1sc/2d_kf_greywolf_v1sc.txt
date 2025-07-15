@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_kf_greywolf
+Source Model Hash : 0be0372430cee86b19c1c3a4a86ca32b
+Source Model Date : 1552562544 (2019/03/14)
+
+Ported Model Name : 2d_kf_greywolf_v1sc
+Ported Model Hash : a0ece9ce211595ff30cd4da411afd6e3
+Ported Model Date : 1752491313 (2025/07/14)

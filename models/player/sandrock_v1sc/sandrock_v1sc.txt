@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sandrock
+Source Model Hash : ff5605c167fde11d7bf60892f9e00896
+Source Model Date : 1375552060 (2013/08/03)
+
+Ported Model Name : sandrock_v1sc
+Ported Model Hash : 8765d51cc33ba55c1f6766185204c09e
+Ported Model Date : 1752492234 (2025/07/14)

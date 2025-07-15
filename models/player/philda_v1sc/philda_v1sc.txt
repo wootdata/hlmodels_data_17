@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : philda
+Source Model Hash : b53e97fff23c946cb74475a71767509c
+Source Model Date : 1625752002 (2021/07/08)
+
+Ported Model Name : philda_v1sc
+Ported Model Hash : 7cb2527971bdc2b7e68abd8632f491c6
+Ported Model Date : 1752492155 (2025/07/14)

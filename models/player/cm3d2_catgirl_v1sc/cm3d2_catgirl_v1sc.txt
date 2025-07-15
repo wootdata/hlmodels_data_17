@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cm3d2_catgirl
+Source Model Hash : c0f02d7dd5ad86462608e14ae2e0d816
+Source Model Date : 1628618618 (2021/08/10)
+
+Ported Model Name : cm3d2_catgirl_v1sc
+Ported Model Hash : a9c08013460de46aa482d76c92f74b7f
+Ported Model Date : 1752491487 (2025/07/14)

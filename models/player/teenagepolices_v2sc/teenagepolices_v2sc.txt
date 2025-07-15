@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : teenagepolices_v2
+Source Model Hash : 207b131022b3591c0303f5014d4bbbde
+Source Model Date : 1584939086 (2020/03/22)
+
+Ported Model Name : teenagepolices_v2sc
+Ported Model Hash : f986167c74f113eb748fc2efd28c648d
+Ported Model Date : 1752492398 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ab_sr_pelo_angry_v2
+Source Model Hash : 6e23941669e969de077e7a944e790fd3
+Source Model Date : 1695917571 (2023/09/28)
+
+Ported Model Name : ab_sr_pelo_angry_v2sc
+Ported Model Hash : 28dd6adaf1718d8cf36922dddae7bda9
+Ported Model Date : 1752491330 (2025/07/14)

@@ -1,0 +1,16 @@
+Install into models/player    should create a folder named admin3
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : admin3_v3
+Source Model Hash : b4f6967ce026743d115ad44bbeaf9ec0
+Source Model Date : 1582956315 (2020/02/28)
+
+Ported Model Name : admin3_v3sc
+Ported Model Hash : 2fa90a9d805603dd07a525ed965c7d73
+Ported Model Date : 1752491331 (2025/07/14)

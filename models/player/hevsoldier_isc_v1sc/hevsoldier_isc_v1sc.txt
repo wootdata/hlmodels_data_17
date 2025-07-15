@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hevsoldier_isc-reb
+Source Model Hash : efdfa38ee4b59246c387684bb17a8015
+Source Model Date : 1713080073 (2024/04/14)
+
+Ported Model Name : hevsoldier_isc_v1sc
+Ported Model Hash : 1a42ae18c7688690fe8d9f684dd0f581
+Ported Model Date : 1752491789 (2025/07/14)

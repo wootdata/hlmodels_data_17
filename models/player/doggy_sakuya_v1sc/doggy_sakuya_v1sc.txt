@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : doggy_sakuya
+Source Model Hash : 6b64b2ee219cc41b945b998c7d921a34
+Source Model Date : 1411828626 (2014/09/27)
+
+Ported Model Name : doggy_sakuya_v1sc
+Ported Model Hash : d7a534ace314753bba21d74e4a0e7af0
+Ported Model Date : 1752491617 (2025/07/14)

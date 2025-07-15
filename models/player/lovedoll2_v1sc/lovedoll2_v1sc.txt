@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lovedoll2
+Source Model Hash : 17b5a07bd90f920356c00460e261ed14
+Source Model Date : 1590882054 (2020/05/30)
+
+Ported Model Name : lovedoll2_v1sc
+Ported Model Hash : 3e6cf78865433c74b19b40110b8861f4
+Ported Model Date : 1752491963 (2025/07/14)

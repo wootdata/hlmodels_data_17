@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mw2_spetz1
+Source Model Hash : 7afbbcc2cfa73328a0e7b9a857d3f594
+Source Model Date : 1281164132 (2010/08/06)
+
+Ported Model Name : mw2_spetz1_v1sc
+Ported Model Hash : 80a154f6624b054ef0557d855b66123b
+Ported Model Date : 1752492055 (2025/07/14)

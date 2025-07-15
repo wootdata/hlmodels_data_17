@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : starschina_otisus
+Source Model Hash : f136e31a36049f1d2dd1db26bddae801
+Source Model Date : 1269962880 (2010/03/30)
+
+Ported Model Name : starschina_otisus_v1sc
+Ported Model Hash : 5f621db2809c3f4d75166850929ee3ac
+Ported Model Date : 1752492343 (2025/07/14)

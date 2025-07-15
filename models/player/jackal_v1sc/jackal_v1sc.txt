@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : jackal
+Source Model Hash : 3eba2458a3f259c0cfa2e7cfc75a017f
+Source Model Date : 1263823294 (2010/01/18)
+
+Ported Model Name : jackal_v1sc
+Ported Model Hash : 2839236c78655142b0a3c4e1cdc2137d
+Ported Model Date : 1752491856 (2025/07/14)

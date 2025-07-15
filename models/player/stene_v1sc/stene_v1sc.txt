@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : stene
+Source Model Hash : 60fcc6f4d27d12ae475e7683fa5ce4e5
+Source Model Date : 1269963542 (2010/03/30)
+
+Ported Model Name : stene_v1sc
+Ported Model Hash : bd8f6a7bd251d1fd3761600e21dbd449
+Ported Model Date : 1752492344 (2025/07/14)

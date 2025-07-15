@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : stalker_snork
+Source Model Hash : cf9e8be3350cb3db02d45431499b70eb
+Source Model Date : 1286066408 (2010/10/02)
+
+Ported Model Name : stalker_snork_v1sc
+Ported Model Hash : b1222237c4cf25162ce77deed62899be
+Ported Model Date : 1752492341 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : wwoman-g
+Source Model Hash : 24df7f06263e1d29f7d1b68e88e26302
+Source Model Date : 1263413724 (2010/01/13)
+
+Ported Model Name : wwoman-g_v1sc
+Ported Model Hash : a2838e2b8ab8a00e8cdc7e48f5500741
+Ported Model Date : 1752492514 (2025/07/14)

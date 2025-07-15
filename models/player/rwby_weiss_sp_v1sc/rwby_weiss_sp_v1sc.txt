@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rwby_weiss_sp
+Source Model Hash : 909791477bb868873bae05765538b52d
+Source Model Date : 1571860490 (2019/10/23)
+
+Ported Model Name : rwby_weiss_sp_v1sc
+Ported Model Hash : 5eec469bcb71739e75453405c2b1e504
+Ported Model Date : 1752492229 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sayin
+Source Model Hash : 6d0ff153a738a0fee48c276a52d026ca
+Source Model Date : 1269695223 (2010/03/27)
+
+Ported Model Name : sayin_v1sc
+Ported Model Hash : c20596580e4c80f8b7bb904501a2e426
+Ported Model Date : 1752492239 (2025/07/14)

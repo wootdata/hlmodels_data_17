@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : security2
+Source Model Hash : fe0bc83872577e73433da4732a1b312b
+Source Model Date : 1237171272 (2009/03/15)
+
+Ported Model Name : security2_v1sc
+Ported Model Hash : f5f13a55f2ecb2b364873793ce6ecfa4
+Ported Model Date : 1752492257 (2025/07/14)

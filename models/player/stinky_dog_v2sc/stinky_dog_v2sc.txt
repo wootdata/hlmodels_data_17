@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : stinky_dog_v2
+Source Model Hash : 632973629cb1c7b576d3198d3e1ac5a1
+Source Model Date : 1591327859 (2020/06/04)
+
+Ported Model Name : stinky_dog_v2sc
+Ported Model Hash : 79908d9c77b5da6a9978bb1f90797de6
+Ported Model Date : 1752492346 (2025/07/14)

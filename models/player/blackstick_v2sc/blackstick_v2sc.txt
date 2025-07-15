@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : blackstick_v2
+Source Model Hash : 74607768a6522f7442faedfd56a1f528
+Source Model Date : 1583578403 (2020/03/07)
+
+Ported Model Name : blackstick_v2sc
+Ported Model Hash : 3c555351e2e36339fcc9d7fb041d48b4
+Ported Model Date : 1752491434 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : para_buzzer
+Source Model Hash : bf698cdf82c4a548f7d17e5dd4d9344a
+Source Model Date : 1265771244 (2010/02/09)
+
+Ported Model Name : para_buzzer_v1sc
+Ported Model Hash : 05faa5b10793516a7017d398a2c3a8c9
+Ported Model Date : 1752492144 (2025/07/14)

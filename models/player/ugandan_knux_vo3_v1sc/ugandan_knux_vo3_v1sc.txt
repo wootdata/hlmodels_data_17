@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ugandan_knuckles_voice
+Source Model Hash : 20b0263bb10c6034381e449bb530987a
+Source Model Date : 1630134454 (2021/08/28)
+
+Ported Model Name : ugandan_knux_vo3_v1sc
+Ported Model Hash : 0411d3f062d99ea58b23d86d682ef811
+Ported Model Date : 1752492471 (2025/07/14)

@@ -1,0 +1,35 @@
+pinkonna is my quick/partial repaint of White Dragon's cool, anime-style "onna" model.
+
+Just unzip into the players/pinkonna directory and have fun.
+
+- blanco[MU] 5/25/99
+
+
+***Original Onna Model by White Dragon  2/28/99:
+
+A brand new model of a cute anime style character.  I think this is
+the first player model to have a resized biped <thus allowing the
+shoulders to be in the right place> Hope you all enjoy it. I also
+changed one death sequence just for fun! :)
+
+I didn't add in team colors in this version. I hope to do it in my next model.
+
+For comment's, How-To's and requests e-mail
+wdragon@goldcom.com or visit
+http://www.deadpresidents.com
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pinkonna
+Source Model Hash : 806512ac5ed11dde8d243eafed5767b7
+Source Model Date : 1590966109 (2020/05/31)
+
+Ported Model Name : pinkonna_v1sc
+Ported Model Hash : d646eb35f14962e6c69e24a2877099ee
+Ported Model Date : 1752492157 (2025/07/14)

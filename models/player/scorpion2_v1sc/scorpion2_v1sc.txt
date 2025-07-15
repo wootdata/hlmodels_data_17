@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : scorpion2
+Source Model Hash : ffbc3e1c6cab5e094d58ed6c6407cf1c
+Source Model Date : 1269800290 (2010/03/28)
+
+Ported Model Name : scorpion2_v1sc
+Ported Model Hash : 704ed0c1f86b0ab5e229eb7a5a559281
+Ported Model Date : 1752492248 (2025/07/14)

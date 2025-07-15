@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : neotokyo_j2
+Source Model Hash : 09bdd2d2671f8b3d113e0b5ea2e001be
+Source Model Date : 1287396464 (2010/10/18)
+
+Ported Model Name : neotokyo_j2_v1sc
+Ported Model Hash : a43fc79f1714e9ff3f0824b088e2ce4f
+Ported Model Date : 1752492089 (2025/07/14)

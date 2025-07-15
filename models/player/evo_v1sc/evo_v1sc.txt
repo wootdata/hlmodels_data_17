@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : evo
+Source Model Hash : d0e734ab05985461009658a639147eec
+Source Model Date : 1736348388 (2025/01/08)
+
+Ported Model Name : evo_v1sc
+Ported Model Hash : 5a97dd592947d51ec0aa23d98802313e
+Ported Model Date : 1752491640 (2025/07/14)

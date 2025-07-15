@@ -1,0 +1,37 @@
+Predator Skin/Model
+
+This is Predator using exported mat files from AvP
+
+This was my hardest skin so far, and I decided to make it
+easier on myself my excluding the dreadlocks, but I am very
+pleased with it.
+
+Converted from Superman by Austin
+
+Place Predator.mdl and Predator.bmp in a new folder called Predator in SIERRA\Half-life\valve\models\player folder.
+
+Other skins by Me:
+Blade
+Batman
+Quake_Blade
+Spiderman
+
+Feel free to contact me at Oliverbw@owinwood.freeserve.co.uk
+and please distribute this file
+
+Oliver Winwood
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : predator_v2
+Source Model Hash : 68c43c5dc2064fc7ac6e31d8c7a7b6ba
+Source Model Date : 1583918755 (2020/03/11)
+
+Ported Model Name : predator_v2sc
+Ported Model Hash : 9aa3aade447bf113a03753c3d35a6a0d
+Ported Model Date : 1752492167 (2025/07/14)

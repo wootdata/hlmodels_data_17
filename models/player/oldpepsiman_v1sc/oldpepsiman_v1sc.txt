@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : oldpepsiman
+Source Model Hash : 8c97d090cd6d03513351e9d22d08dedd
+Source Model Date : 1739217598 (2025/02/10)
+
+Ported Model Name : oldpepsiman_v1sc
+Ported Model Hash : bd5d2fff81ab3f2c622f97b828fc591b
+Ported Model Date : 1752492115 (2025/07/14)

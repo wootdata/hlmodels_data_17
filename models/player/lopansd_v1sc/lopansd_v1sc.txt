@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lopansd
+Source Model Hash : 2c4be64a38d1c6e09393651d10207512
+Source Model Date : 1429532450 (2015/04/20)
+
+Ported Model Name : lopansd_v1sc
+Ported Model Hash : a4c4a0412e98e1b4bbbcbb6715e0e2cf
+Ported Model Date : 1752491962 (2025/07/14)

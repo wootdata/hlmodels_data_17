@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : stick_black
+Source Model Hash : 01b36f63715e4a5a71722b2bed9d90d2
+Source Model Date : 1413461241 (2014/10/16)
+
+Ported Model Name : stick_black_v1sc
+Ported Model Hash : e588980266f2cf6ab9df08b0c92b2713
+Ported Model Date : 1752492345 (2025/07/14)

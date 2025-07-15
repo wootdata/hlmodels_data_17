@@ -1,0 +1,22 @@
+
+Skin Name: DFA
+Skinner: Recognize
+Email: clandfa@hotmail.com
+Homepage: home.pacbell.net/draws
+
+DFA is the official skin of Half Life clan Death From Above. I have edited the team colors to make them brighter. This skin allows you to be part of a specialized team and still maintain individuality to be recognized as which team member you are by use of the top color slider bar in the multiplayer setup.
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dfa_v2
+Source Model Hash : 6a034c761d5f02beb3acbae6e3d7fd17
+Source Model Date : 1583006361 (2020/02/29)
+
+Ported Model Name : dfa_v2sc
+Ported Model Hash : ba1ca214307457781281971558e1da9e
+Ported Model Date : 1752491595 (2025/07/14)

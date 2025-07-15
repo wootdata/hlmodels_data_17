@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mw2_fsb_32
+Source Model Hash : 6c893d64f879d3dfc52a767aa69e79dd
+Source Model Date : 1481247718 (2016/12/08)
+
+Ported Model Name : mw2_fsb_32_v1sc
+Ported Model Hash : f3938a6176e467ad12cdafbd4c92a512
+Ported Model Date : 1752492050 (2025/07/14)

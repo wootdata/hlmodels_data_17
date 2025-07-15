@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : zardy
+Source Model Hash : 5ab29aab54244e1015445730f0e0bf8f
+Source Model Date : 1653006788 (2022/05/19)
+
+Ported Model Name : zardy_v1sc
+Ported Model Hash : 92d31a42659765b3f92c401e510a39a9
+Ported Model Date : 1752492527 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mk9_cybersubzero
+Source Model Hash : 5beb38122aec6dd312d531719a3190dc
+Source Model Date : 1455232764 (2016/02/11)
+
+Ported Model Name : mk9_cybersubzero_v1sc
+Ported Model Hash : d4c8152734595a23d6a6402a4f6641ed
+Ported Model Date : 1752492032 (2025/07/14)

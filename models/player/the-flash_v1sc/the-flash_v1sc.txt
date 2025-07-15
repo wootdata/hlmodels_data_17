@@ -1,0 +1,38 @@
+The Flash Skin
+
+
+The Flash  A man that can move faster than sound & almost the speed of light.
+
+This is one of many skins for Half Life I designed,
+The Flash skin is based on the Punisher Model by Brian Collins.
+
+Other skins I did:
+Green Hornet2000
+KATO2000
+PC Punisher1 & 2 (me) :-)                    
+Ghost
+GuyverXenoid
+Duke Nukem
+Whole series of Star Trek Skins.
++ More.
+
+Feel free to contact me at  pcpunisher@earthlink.net
+or ICQ 9925070
+and please distribute this file.
+
+Edward E. White   AKA  W2H PC Punisher
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : the-flash
+Source Model Hash : 3ca95e352ae0d58a9fbf15f4c679ea38
+Source Model Date : 1591335796 (2020/06/04)
+
+Ported Model Name : the-flash_v1sc
+Ported Model Hash : dc8c40f974067fa2cde8c08bc3e2a619
+Ported Model Date : 1752492410 (2025/07/14)

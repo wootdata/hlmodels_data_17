@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : css_sas
+Source Model Hash : deee1e0492b84d1cabd462812413f7a7
+Source Model Date : 1476929882 (2016/10/19)
+
+Ported Model Name : css_sas_v1sc
+Ported Model Hash : 40face8ce305115b690d67098aaf2ba7
+Ported Model Date : 1752491559 (2025/07/14)

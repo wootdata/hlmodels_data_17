@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : daiyousei
+Source Model Hash : e3a3ca72468b8e2002fe630f9c836eac
+Source Model Date : 1458602613 (2016/03/21)
+
+Ported Model Name : daiyousei_v1sc
+Ported Model Hash : a25052f20fd6a539cb0a00f5e024d1cb
+Ported Model Date : 1752491576 (2025/07/14)

@@ -1,0 +1,29 @@
+--------------------------
+Ichigo release
+--------------------------
+credits (ichigo and zangetsu):
+
+models: enix
+textures: enix
+rig: enix
+custom animations (katana idle): enix
+
+==========================
+Please...if you edit my models please give me credit for my work.
+
+-enix
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ichigo2
+Source Model Hash : 8ddf9e6096111eb832ab2c1bb76ebf61
+Source Model Date : 1264538452 (2010/01/26)
+
+Ported Model Name : ichigo2_v1sc
+Ported Model Hash : b0f0332d17e28a0bfc7345fec646552d
+Ported Model Date : 1752491842 (2025/07/14)

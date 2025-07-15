@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tc_frosty
+Source Model Hash : a211ef898b0824313cc36ab59e3b4394
+Source Model Date : 1267285638 (2010/02/27)
+
+Ported Model Name : tc_frosty_v1sc
+Ported Model Hash : 38a9d80de84db28fa7f1457528da4c76
+Ported Model Date : 1752492396 (2025/07/14)

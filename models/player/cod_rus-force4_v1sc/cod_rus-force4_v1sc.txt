@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cod_rus-force4
+Source Model Hash : 4b825cb974d76e1f62579147eb862c82
+Source Model Date : 1477261200 (2016/10/23)
+
+Ported Model Name : cod_rus-force4_v1sc
+Ported Model Hash : fe45b9d641a475b40abc7f9c6ef973a5
+Ported Model Date : 1752491497 (2025/07/14)

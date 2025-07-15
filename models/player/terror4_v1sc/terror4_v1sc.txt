@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : terror4
+Source Model Hash : 642737217a2a70b830d4341f207a5122
+Source Model Date : 1231871002 (2009/01/13)
+
+Ported Model Name : terror4_v1sc
+Ported Model Hash : 726636b69ec05b226ee86193fd833b63
+Ported Model Date : 1752492401 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : blade
+Source Model Hash : 30672b4288b719df12b75e44c6b4bfd4
+Source Model Date : 1267894122 (2010/03/06)
+
+Ported Model Name : blade_v1sc
+Ported Model Hash : c803352fd58b34ab016f15ff4715545d
+Ported Model Date : 1752491435 (2025/07/14)

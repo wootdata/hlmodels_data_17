@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_hn_uni_maid
+Source Model Hash : 1b3ef3b86227d134b285f99d61e62307
+Source Model Date : 1553686496 (2019/03/27)
+
+Ported Model Name : 2d_hn_uni_maid_v1sc
+Ported Model Hash : 272b594175a8bcb08947969922f9d1d2
+Ported Model Date : 1752491312 (2025/07/14)

@@ -1,0 +1,29 @@
+------------------------------------------------------
+Tokoro Tennosuke a.k.a Jelly Jiggler (from Bobobo-bo Bo-bobo)
+for Sven Co-op 5.0 player model
+
+Multi Vitamin C C C!
+
+Animation by Sven Co-op Team
+Model, Skin, Customized animation, Compiled by originaldon
+
+Programs Used: MilkShape 3D, Blender, SAI
+Website: http://tepodonsc35.g1.xrea.com/
+
+23-02-2017 completed
+------------------------------------------------------
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tennosuke
+Source Model Hash : a49a4dd90b584e8876195a13f85c5ef0
+Source Model Date : 1487850572 (2017/02/23)
+
+Ported Model Name : tennosuke_v1sc
+Ported Model Hash : ac72b19035c1cf8f8ffc35eb44ec6691
+Ported Model Date : 1752492399 (2025/07/14)

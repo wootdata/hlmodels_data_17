@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mikuhatsune_v1
+Source Model Hash : cb5f6d7362d56fe67372692d72580f22
+Source Model Date : 1446110584 (2015/10/29)
+
+Ported Model Name : mikuhatsune_v1sc
+Ported Model Hash : 81af6678232e7c1c42fa7b1aca7331df
+Ported Model Date : 1752492020 (2025/07/14)

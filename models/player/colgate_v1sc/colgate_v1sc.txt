@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : colgate
+Source Model Hash : c8deee7be7f4e546d1737142cd4f0e44
+Source Model Date : 1589420283 (2020/05/13)
+
+Ported Model Name : colgate_v1sc
+Ported Model Hash : ad206e8ce1f7836afcf5590cb20e155a
+Ported Model Date : 1752491506 (2025/07/14)

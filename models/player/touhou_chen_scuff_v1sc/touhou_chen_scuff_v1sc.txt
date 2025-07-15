@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_chen_v2_scuffed
+Source Model Hash : 72cbed7e473091bbc57e4e5fe55c6b1d
+Source Model Date : 1584900187 (2020/03/22)
+
+Ported Model Name : touhou_chen_scuff_v1sc
+Ported Model Hash : 315777bb65e5fcc9cc93c1dea6a3da3f
+Ported Model Date : 1752492434 (2025/07/14)

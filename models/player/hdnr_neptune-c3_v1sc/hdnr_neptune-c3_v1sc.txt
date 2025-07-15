@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hdnr_neptune-c3
+Source Model Hash : 78f0b2ae386f4391b3f32a067e92f3f1
+Source Model Date : 1546098164 (2018/12/29)
+
+Ported Model Name : hdnr_neptune-c3_v1sc
+Ported Model Hash : 0345e5960de4feeb1759f03c4deee526
+Ported Model Date : 1752491773 (2025/07/14)

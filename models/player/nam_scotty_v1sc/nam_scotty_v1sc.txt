@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nam_scotty
+Source Model Hash : 6da24702e3ecd955ac14e91e28f3c108
+Source Model Date : 1265557475 (2010/02/07)
+
+Ported Model Name : nam_scotty_v1sc
+Ported Model Hash : 788ab849d4c5a0da3102008bc650e332
+Ported Model Date : 1752492067 (2025/07/14)

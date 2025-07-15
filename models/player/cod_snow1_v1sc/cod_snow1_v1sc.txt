@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cod_snow1
+Source Model Hash : 951f1cb3ba7dee647eb7ec7cec7754a8
+Source Model Date : 1477270358 (2016/10/23)
+
+Ported Model Name : cod_snow1_v1sc
+Ported Model Hash : c4a86470707c6093b50c38f7b71c6013
+Ported Model Date : 1752491501 (2025/07/14)

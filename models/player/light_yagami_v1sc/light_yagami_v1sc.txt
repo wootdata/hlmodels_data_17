@@ -1,0 +1,17 @@
+Credit:
+http://davidsaiyan.blogspot.jp/
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : light_yagami
+Source Model Hash : 9bec29a6af2280b81aab6022794cfc93
+Source Model Date : 1464002869 (2016/05/23)
+
+Ported Model Name : light_yagami_v1sc
+Ported Model Hash : adab6fae0c9f7404f10b0d139d3282b1
+Ported Model Date : 1752491952 (2025/07/14)

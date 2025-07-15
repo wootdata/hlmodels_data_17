@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : superbigote
+Source Model Hash : cd6435b78f4732f668a1ce6f80684643
+Source Model Date : 1729211610 (2024/10/17)
+
+Ported Model Name : superbigote_v1sc
+Ported Model Hash : c76c579b84631299ea15524e3c3c8323
+Ported Model Date : 1752492350 (2025/07/14)

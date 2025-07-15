@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : oscar
+Source Model Hash : 1b961313d34bd34b613030ac72ffa79e
+Source Model Date : 1264765481 (2010/01/29)
+
+Ported Model Name : oscar_v1sc
+Ported Model Hash : c56225a1f0fed317c3e44f6d2eec6976
+Ported Model Date : 1752492133 (2025/07/14)

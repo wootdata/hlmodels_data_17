@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lineage
+Source Model Hash : 3c6c401ad275bd38467474ab85484242
+Source Model Date : 1445887630 (2015/10/26)
+
+Ported Model Name : lineage_v1sc
+Ported Model Hash : f633acd8d351acf0e44924c8a6e32c72
+Ported Model Date : 1752491953 (2025/07/14)

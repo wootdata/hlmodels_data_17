@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : scarlet
+Source Model Hash : 28f2d43825f64b3162c64f82271530a4
+Source Model Date : 1591146673 (2020/06/02)
+
+Ported Model Name : scarlet_v1sc
+Ported Model Hash : 554bbd6d7dc4bb572674c3d3fa927e08
+Ported Model Date : 1752492244 (2025/07/14)

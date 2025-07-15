@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : desertmask
+Source Model Hash : 4ae45dcbc0ce1f8c4a0504173f2dc1b3
+Source Model Date : 1266937555 (2010/02/23)
+
+Ported Model Name : desertmask_v1sc
+Ported Model Hash : 0e21d8796289b9bc31a8ae3abbd9ecea
+Ported Model Date : 1752491595 (2025/07/14)

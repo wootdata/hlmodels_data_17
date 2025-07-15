@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : thewastes_idaho
+Source Model Hash : be032a76c105ee29d1607c6dbe7cef87
+Source Model Date : 1267462753 (2010/03/01)
+
+Ported Model Name : thewastes_idaho_v1sc
+Ported Model Hash : 946af801b46222862e6140e76aa46557
+Ported Model Date : 1752492411 (2025/07/14)

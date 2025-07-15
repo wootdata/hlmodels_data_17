@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : yosuke
+Source Model Hash : 4aa0322e2378ba6df243b0c3ef841b50
+Source Model Date : 1561034524 (2019/06/20)
+
+Ported Model Name : yosuke_v1sc
+Ported Model Hash : 8a99ee49078dd85ef5b016e808e4d314
+Ported Model Date : 1752492522 (2025/07/14)

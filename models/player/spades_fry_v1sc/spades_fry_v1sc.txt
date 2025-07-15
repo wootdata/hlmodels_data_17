@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : spades_fry
+Source Model Hash : d99e53fe517435107263095294a5a47d
+Source Model Date : 1579695639 (2020/01/22)
+
+Ported Model Name : spades_fry_v1sc
+Ported Model Hash : dc74b47840d3589e56b084acfbbcad0c
+Ported Model Date : 1752492304 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : -psycho-firth-
+Source Model Hash : e9c7a6e68dc1254ff53c30825b74a771
+Source Model Date : 1591053642 (2020/06/01)
+
+Ported Model Name : -psycho-firth-_v1sc
+Ported Model Hash : 2748c2d65dad8beb0cc6acbe5479ea79
+Ported Model Date : 1752491303 (2025/07/14)

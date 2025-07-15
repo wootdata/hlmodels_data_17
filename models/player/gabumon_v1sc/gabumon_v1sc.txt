@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gabumon
+Source Model Hash : 0af3e801a42fe81bf082257bb11584b8
+Source Model Date : 1699551924 (2023/11/09)
+
+Ported Model Name : gabumon_v1sc
+Ported Model Hash : e84e9834256e867cc735df5cd610c2df
+Ported Model Date : 1752491666 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_sanae_jkc_v3
+Source Model Hash : 3b5a2be9eba6ba35b1de15f3f06963c7
+Source Model Date : 1630361044 (2021/08/30)
+
+Ported Model Name : touhou_sanae_jkc_v3sc
+Ported Model Hash : e7cdc90728febe5e90d277bcee401a58
+Ported Model Date : 1752492446 (2025/07/14)

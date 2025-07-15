@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : takeshi
+Source Model Hash : a217d5ea95382c822e1344d97cc1afaa
+Source Model Date : 1267282726 (2010/02/27)
+
+Ported Model Name : takeshi_v1sc
+Ported Model Hash : 3529579688f0b2d8441ec09455a0333c
+Ported Model Date : 1752492359 (2025/07/14)

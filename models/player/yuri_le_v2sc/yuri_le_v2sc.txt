@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : yuri_le_v2
+Source Model Hash : 882b8d2978d255a59bb07ca6866d54e0
+Source Model Date : 1546018271 (2018/12/28)
+
+Ported Model Name : yuri_le_v2sc
+Ported Model Hash : cd3307819fc4b79dd7d4a0323db6343e
+Ported Model Date : 1752492525 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : carnivore2_v2
+Source Model Hash : 3790ef38681774b7f62784b6bf4b0eb3
+Source Model Date : 1582841950 (2020/02/27)
+
+Ported Model Name : carnivore2_v2sc
+Ported Model Hash : dcff6984ad66278792d447cd4d5e8846
+Ported Model Date : 1752491463 (2025/07/14)

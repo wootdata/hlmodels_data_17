@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : starcraft_medic
+Source Model Hash : 5ed0085c824d6d83eb9464dffddd62dd
+Source Model Date : 1269961908 (2010/03/30)
+
+Ported Model Name : starcraft_medic_v1sc
+Ported Model Hash : 0b1093575efdfc359114e8c416f3b53c
+Ported Model Date : 1752492342 (2025/07/14)

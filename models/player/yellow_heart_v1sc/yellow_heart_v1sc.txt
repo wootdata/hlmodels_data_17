@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : yellow_heart
+Source Model Hash : 4487ea039b019d228fdfb201a49eb396
+Source Model Date : 1546605671 (2019/01/04)
+
+Ported Model Name : yellow_heart_v1sc
+Ported Model Hash : 41d36d21d1a7d826b1bdc20bcb8f592c
+Ported Model Date : 1752492520 (2025/07/14)

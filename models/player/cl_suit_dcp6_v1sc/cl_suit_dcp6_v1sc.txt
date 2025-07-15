@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cl_suit_dcp6
+Source Model Hash : 09496d9b6a351436ad7b25b06f8a0d03
+Source Model Date : 1635467999 (2021/10/28)
+
+Ported Model Name : cl_suit_dcp6_v1sc
+Ported Model Hash : 7efee7bb341b004b7ee7ac674ba2143d
+Ported Model Date : 1752491486 (2025/07/14)

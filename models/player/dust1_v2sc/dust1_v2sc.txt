@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dust1_v2
+Source Model Hash : a03f5dc2200b3b1d8b5ff7accf6f979e
+Source Model Date : 1583827463 (2020/03/10)
+
+Ported Model Name : dust1_v2sc
+Ported Model Hash : de40152fecd3686b26569c070a79a20d
+Ported Model Date : 1752491626 (2025/07/14)

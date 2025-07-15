@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : origzombie
+Source Model Hash : 03510f198e40616fd892f11544e64142
+Source Model Date : 1264764311 (2010/01/29)
+
+Ported Model Name : origzombie_v1sc
+Ported Model Hash : f9115b66e1f21bf158f4c1e2c8889db9
+Ported Model Date : 1752492131 (2025/07/14)
