@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hl1teto_personal
+Source Model Hash : ade69269ee5d051659e0e9995ed1f64d
+Source Model Date : 1752951128 (2025/07/19)
+
+Ported Model Name : hl1teto_personal_v1sc
+Ported Model Hash : a439d89d049c52df697d06f20b55bca1
+Ported Model Date : 1752991540 (2025/07/19)

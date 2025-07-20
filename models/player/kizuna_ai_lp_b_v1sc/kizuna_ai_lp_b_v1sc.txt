@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kizuna_ai_lp_b
+Source Model Hash : b9d0f29cacba4b2c7d120101b7f80fc4
+Source Model Date : 1752831157 (2025/07/18)
+
+Ported Model Name : kizuna_ai_lp_b_v1sc
+Ported Model Hash : c1be22070bfea1c2eae975f2f97495fe
+Ported Model Date : 1752991744 (2025/07/19)
