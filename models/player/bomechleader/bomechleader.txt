@@ -1,0 +1,13 @@
+Skinner: SlimReapeR
+Skin Name: Bomechleader
+Model Used: Bomechleader (Modified punisher model modified by SlimReapeR
+
+
+Installation of Plugin
+
+Create a folder called bomechleader in your half-life/valve/models/player folder.
+Extract all files into this new folder.
+
+SlimReapeR  Http://www.slimreaper.co.uk
+	    mail: slimreaper@slimreaper.co.uk
+
